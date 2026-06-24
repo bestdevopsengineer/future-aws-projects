@@ -155,4 +155,10 @@
       sudo nginx -t
       sudo systemctl restart nginx
 
+      14. Test App
+      http://EC2_PUBLIC_IP
+
+      [{"id":1,"name":"John Doe","email":"john@example.com"}]
+      
+
 
