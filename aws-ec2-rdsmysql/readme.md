@@ -1,4 +1,5 @@
-<img width="931" height="628" alt="image" src="https://github.com/user-attachments/assets/3c760fef-9253-438d-b4c2-77df72e8a3f8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5ba8ee9-c166-454e-a09a-acb3cb5cc57f" />
+
 
 # Project will include:
     AWS Infrastructure:
